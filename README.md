@@ -3,5 +3,8 @@
 ## Commit
 `git commit -m "pesan commitnya apa"`
 
+sebelum commit, kita harus menginisiasi direktori dari file yang ingin di-git-kan.
+`git init`
+
 
 ## Branch
