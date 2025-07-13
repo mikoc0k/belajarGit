@@ -8,3 +8,8 @@ sebelum commit, kita harus menginisiasi direktori dari file yang ingin di-git-ka
 
 
 ## Branch
+`git branch <nama_branch>`
+
+contoh penggunaan branch :
+
+`git branch bugFix`
