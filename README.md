@@ -13,3 +13,5 @@ sebelum commit, kita harus menginisiasi direktori dari file yang ingin di-git-ka
 contoh penggunaan branch :
 
 `git branch bugFix`
+
+setelah bikin branch, jangan lupa di commit
