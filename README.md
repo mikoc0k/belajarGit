@@ -15,3 +15,11 @@ contoh penggunaan branch :
 `git branch bugFix`
 
 setelah bikin branch, jangan lupa di commit
+
+## Checkout
+
+digunakan untuk keluar dari branch dan berpindah ke branch tertentu.
+
+`git checkout main`
+
+artinya adalah keluar dari branch sekarang, lalu pindah ke branch "main".
